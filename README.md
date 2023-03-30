@@ -1,6 +1,6 @@
 # HDR-SCVC-Templating
 
-This repository contains code to help optimize HDR templates based on doses delivered to reference points. 
+This repository contains code to help optimize HDR templates based on doses delivered to reference points, as well as several example data sets based on various combinations of prescription and cylinder diameter.
 
 ## Code Inputs:
  - A set of ideal doses for the relevant reference points
